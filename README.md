@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Aki! 👋
 
-<!--
-**Suijester/Suijester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a keen interest in DevOps, open-source contribution (obviously), and overall learning! Love exploring new tools, tech, and building things for the sake of fun!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, C++, Python
+- **Frameworks:** React, Node.js, Express
+- **DevOps:** Docker, Kubernetes
+
+## 📈 GitHub Stats
+
+![Suijester's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suijester&show_icons=true&theme=radical)
+
+## 🌱 Currently Working With
+
+- Docker
+- API and Web Development
+- Embedded Software (in progress soon!)
+
+## 🛠️ Projects
+
+- **[REST-Connect](https://github.com/Suijester/REST-Connect):** Middleman CLI Tool and API that enables automated test-case generation, enabling users in identifying logic, runtime, or behavioral errors through GPT integration.
+
+## ⚡ Fun fact
+
+I love playing board games, but I almost never win if there's more than two players.
+
+---
+
+⭐️ From [Suijester](https://github.com/Suijester)

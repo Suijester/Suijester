@@ -21,6 +21,7 @@ I'm a developer with a keen interest in DevOps, open-source contribution (obviou
 ## 🛠️ Projects
 
 - **[REST-Connect](https://github.com/Suijester/REST-Connect):** Middleman CLI Tool and API that enables automated test-case generation, enabling users in identifying logic, runtime, or behavioral errors through GPT integration.
+- **[Memorize](https://github.com/Suijester/Memorize):** Memo assistant wake word tool that enables memo generation and storage in Postgres, enabling users to query prior memos via vector search to serve as a second brain for information recall and efficiency
 
 ## ⚡ Fun fact
 

@@ -14,9 +14,7 @@ I'm a developer with a keen interest in DevOps, open-source contribution (obviou
 
 ## 🌱 Currently Working With
 
-- Docker
-- API and Web Development
-- Embedded Software (in progress soon!)
+- Verilog
 
 ## 🛠️ Projects
 

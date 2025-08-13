@@ -4,8 +4,7 @@ I'm a developer with a keen interest in DevOps, open-source contribution (obviou
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** TypeScript, C++, Python
-- **Frameworks:** React, Node.js, Express
+- **Languages:** Verilog, C++, Python
 - **DevOps:** Docker, Kubernetes
 
 ## 📈 GitHub Stats
@@ -17,7 +16,7 @@ I'm a developer with a keen interest in DevOps, open-source contribution (obviou
 - Verilog
 
 ## 🛠️ Projects
-
+- **[LZ77-Hardware](https://github.com/Suijester/lz77-hardware):** Low-latency parameterizable greedy compressor intended for FPGA deployment, achieving almost 2x compression on Alice in Wonderland, designed to trade-off between throughput and compression.
 - **[REST-Connect](https://github.com/Suijester/REST-Connect):** Middleman CLI Tool and API that enables automated test-case generation, enabling users in identifying logic, runtime, or behavioral errors through GPT integration.
 - **[Memorize](https://github.com/Suijester/Memorize):** Memo assistant wake word speech-to-text tool that enables memo generation and storage in Postgres, enabling users to query prior memos via vector search, serving as a Second Brain for informational recall.
 

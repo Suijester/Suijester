@@ -1,11 +1,10 @@
 # Hi there, I'm Aki! 👋
 
-I'm a developer with a keen interest in DevOps, open-source contribution (obviously), and overall learning! Love exploring new tools, tech, and building things for the sake of fun!
+I'm a developer with a keen interest in hardware, open-source contribution (obviously), and overall learning! Love exploring new tools, tech, and building things for the sake of fun!
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Verilog, C++, Python
-- **DevOps:** Docker, Kubernetes
 
 ## 📈 GitHub Stats
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Aki! 👋
 
-I'm a developer with a keen interest in hardware, open-source contribution (obviously), and overall learning! Love exploring new tools, tech, and building things for the sake of fun!
+Electrical Engineering, UCLA '28 
 
 ## 🔧 Technologies & Tools
 

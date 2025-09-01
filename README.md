@@ -1,6 +1,6 @@
 # Hi there, I'm Aki! 👋
 
-Electrical Engineering, UCLA '28 
+Electrical Engineering, UCLA '28, interested in embedded/low-level software & hardware development.
 
 ## 🔧 Technologies & Tools
 

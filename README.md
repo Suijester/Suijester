@@ -1,4 +1,4 @@
-# Hi there, I'm Aki! 👋
+# Hi there, I'm Aki Subramaniam! 👋
 
 Electrical Engineering, UCLA '28, interested in embedded/low-level software & hardware development.
 

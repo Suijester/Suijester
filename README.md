@@ -1,6 +1,6 @@
 # Hi there, I'm Aki Subramaniam 🫡
 
-Electrical Engineering, UCLA '28, interested in embedded/low-level software & hardware development.
+Electrical Engineering, UCLA '28, interested in computer architectures and embedded software. Feel free to fork and submit PRs, and message me as well!
 
 ## 🔧 Technologies & Tools
 
@@ -13,8 +13,11 @@ Electrical Engineering, UCLA '28, interested in embedded/low-level software & ha
 ## 🌱 Currently Working With
 
 - Verilog
+- SystemVerilog
+- C/C++
 
 ## 🛠️ Projects
+- **[Aki-TPU](https://github.com/Suijester/aki-tpu):** Parameterizable TPU-style matmul accelerator, implementing scalable systolic arrays for rapid calculations, ReLU unit for full neural network layer execution, and double buffering to conceal I/O write latency; achieved 176 MHZ with 90.6 GFLOPS for 16x16 matrix multiplication in simulation.
 - **[RISC-V](https://github.com/Suijester/risc-v):** Lightweight pipelined RV32I soft-core implementation, featuring L1 Cache for instruction memory, static branch prediction, hazard handling, and register forwarding; achieved 100 MHz clock speed with 0.5ns positive slack, and <10% resource area usage when synthesized in Vivado on Artix-7.
 - **[Aki-RTOS](https://github.com/Suijester/aki-rtos):** High-performance real-time operating system for STM32 Microcontrollers, implementing preemptive scheduling with semaphore-based blocking, priority-based interrupt handling, lightweight inter-task communication through message queues, and O(1) task scheduling with priority-ready lists; designed for embedded systems with limited resources.
 - **[LZ77-Hardware](https://github.com/Suijester/lz77-hardware):** Low-latency parameterizable & parallelized search greedy compressor intended for FPGA deployment, achieving almost 2x compression on Alice in Wonderland, designed to trade-off between throughput and compression dependent on resource area.

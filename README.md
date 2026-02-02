@@ -24,10 +24,6 @@ Electrical Engineering, UCLA '28, interested in computer architectures and embed
 - **[REST-Connect](https://github.com/Suijester/REST-Connect):** Middleman CLI Tool and API that enables automated test-case generation, enabling users in identifying logic, runtime, or behavioral errors through GPT integration.
 - **[Memorize](https://github.com/Suijester/Memorize):** Memo assistant wake word speech-to-text tool that enables memo generation and storage in Postgres, enabling users to query prior memos via vector search, serving as a Second Brain for informational recall.
 
-## ⚡ Fun fact
-
-I love playing board games, but I almost never win if there's more than two players.
-
 ---
 
 ⭐️ From [Suijester](https://github.com/Suijester)

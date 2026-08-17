@@ -1,22 +1,22 @@
-# Hi there, I'm Aki Subramaniam 🫡
+# Hi there, I'm Aki Subramaniam
 
-Electrical Engineering, UCLA '28, interested in computer architectures and embedded software. Feel free to fork and submit PRs, and message me as well!
+Electrical Engineering, UCLA '28, interested in computer architecture, RTL, channel coding, etc.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 - **Languages:** Verilog, SystemVerilog, C, C++, Python
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Suijester's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suijester&show_icons=true&theme=radical)
 
-## 🌱 Currently Working With
+## Currently Working With
 
-- Verilog
 - SystemVerilog
 - C/C++
 
-## 🛠️ Projects
+## Projects
+ **[ELF-TBCC Spectrum Analyzer](https://github.com/UCLA-Communications-Systems-Lab/elf-tbcc-spectrum):** Open-source CUDA distance-spectrum analyzer for expurgated tail-biting convolutional codes (ELF-TBCC codes). Searches millions of candidate codes in hours using NVIDIA CGBN for wide block lengths and symmetry-based pruning of identical and catastrophic codes. Associated tool for our accepted ITW '26 paper.
 - **[Aki-TPU](https://github.com/Suijester/aki-tpu):** Parameterizable TPU-style matmul accelerator, implementing scalable systolic arrays for rapid calculations, ReLU unit for full neural network layer execution, and double buffering to conceal I/O write latency; achieved 176 MHZ with 90.6 GFLOPS for 16x16 matrix multiplication in simulation.
 - **[RISC-V](https://github.com/Suijester/risc-v):** Lightweight pipelined RV32I soft-core implementation, featuring L1 Cache for instruction memory, static branch prediction, hazard handling, and register forwarding; achieved 100 MHz clock speed with 0.5ns positive slack, and <10% resource area usage when synthesized in Vivado on Artix-7.
 - **[Aki-RTOS](https://github.com/Suijester/aki-rtos):** High-performance real-time operating system for STM32 Microcontrollers, implementing preemptive scheduling with semaphore-based blocking, priority-based interrupt handling, lightweight inter-task communication through message queues, and O(1) task scheduling with priority-ready lists; designed for embedded systems with limited resources.

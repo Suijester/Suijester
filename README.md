@@ -6,7 +6,7 @@ Electrical Engineering, UCLA '28, interested in computer architecture, ASIC desi
 
 - **Languages:** SystemVerilog, Tcl, SVA, CUDA, C, C++, Python
 - **Tools:** Vivado, Verilator, GTKWave, cocotb, LibreLane, OpenROAD, OpenSTA
-- 
+
 ## Projects
 - **[8-bit RISC-V, TinyTapeout](https://github.com/UCLA-Tapeout-Club/risc_v):** 8-bit CPU design submitted to TinyTapeout, for their SKY 26c shuttle this September (estimated return date of May 2027). Implemented the CPU core logic (ALU, control logic, register file, datapath, etc.) for this project, and ran STA through LibreLane Actions, achieving clean hold at every corner, and closing at 64.5 MHz, while submitting at 50 MHz. The TinyTapeout-specific repository can be found [here](https://github.com/UCLA-Tapeout-Club/risc_v_tt), since we had to move it to a specific template repository.
 - **[ELF-TBCC Spectrum Analyzer](https://github.com/UCLA-Communications-Systems-Lab/elf-tbcc-spectrum):** Open-source CUDA distance-spectrum analyzer for expurgated tail-biting convolutional codes (ELF-TBCC codes). Searches millions of candidate codes in hours using NVIDIA CGBN for wide block lengths and performs symmetry-based pruning of identical and catastrophic codes to reduce the sample space. Associated tool for our accepted ITW '26 paper.
